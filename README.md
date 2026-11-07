@@ -1,9 +1,7 @@
 # About sammpad.ai
 
 ## Overview
-**sammpad.ai** is an innovative, web-based AI study companion designed specifically for **CBSE Class 11–12 Computer Science (Python)** students and educators. Developed as a single-day capstone project during the CIDCT, IIT Kharagpur programme (*"Transforming Teaching Practices in School Education: NEP 2020, Digital Pedagogy, and GenAI"*), our platform bridges the gap between curriculum-grounded learning and modern generative artificial intelligence.
-
-Our goal is to deliver a **low-cost, teacher-controlled, and syllabus-grounded** tool that enhances classroom teaching, formative assessment, and self-paced board exam preparation in full alignment with the **National Education Policy (NEP) 2020**.
+**sammpad.ai** is an innovative, web-based AI study companion designed specifically for **CBSE Class 11–12 Computer Science (Python)** students and educators. Our goal is to deliver a **low-cost, teacher-controlled, and syllabus-grounded** tool that enhances classroom teaching, formative assessment, and self-paced board exam preparation in full alignment with the **National Education Policy (NEP) 2020**.
 
 ---
 
@@ -40,20 +38,3 @@ Our goal is to deliver a **low-cost, teacher-controlled, and syllabus-grounded**
 - **Flexible LLM Back-ends:** Supports drop-in model swapping (Groq API using `openai/gpt-oss-20b` by default, alongside Google Gemini `gemini-3.1-flash-lite`).
 - **Machine Learning & NLP:** Powered by Python 3.11, `scikit-learn`, `sentence-transformers`, `pandas`, and `pypdf`.
 - **Privacy & Security:** Features local/session-based state storage with no permanent server tracking, and environment-variable API key configurations.
-
----
-
-## Team & Organization Credits
-
-Developed by Post Graduate Teachers (PGT Computer Science):
-
-1. **Mr. Anuj Kumar** (PGT CS)
-2. **Mr. Dipayan Sarkar** (PGT CS)
-3. **Mr. Arkopal Ray** (PGT CS)
-4. **Ms. Payal Bhattacharjee** (PGT CS)
-5. **Ms. Mohana Bakshi** (PGT CS)
-6. **Ms. Madhulika Debnath** (PGT CS)
-7. **Mr. Aftab Alam Shahnawaz** (PGT CS)
-
-**Institutional Support:**  
-Organized under the **Centre for Interdisciplinary and Convergent Technologies (CIDCT), IIT Kharagpur**.
