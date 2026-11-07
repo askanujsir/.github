@@ -1,7 +1,7 @@
-# About sammpad.ai
+# About AskAnujSir
 
 ## Overview
-**sammpad.ai** is an innovative, web-based AI study companion designed specifically for **CBSE Class 11–12 Computer Science (Python)** students and educators. Our goal is to deliver a **low-cost, teacher-controlled, and syllabus-grounded** tool that enhances classroom teaching, formative assessment, and self-paced board exam preparation in full alignment with the **National Education Policy (NEP) 2020**.
+**AskAnujSir** is an innovative, web-based AI study companion designed specifically for **CBSE Class 11–12 Computer Science (Python)** students and educators. Our goal is to deliver a **low-cost, teacher-controlled, and syllabus-grounded** tool that enhances classroom teaching, formative assessment, and self-paced board exam preparation in full alignment with the **National Education Policy (NEP) 2020**.
 
 ---
 
